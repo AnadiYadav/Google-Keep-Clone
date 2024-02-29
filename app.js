@@ -207,7 +207,7 @@ class App {
               } src="https://icon.now.sh/palette">
               <img data-id=${
                 note.id
-              } class="toolbar-delete" src="https://icon.now.sh/delete">
+              } class="toolbar-delete" src="https://cdn2.vectorstock.com/i/1000x1000/01/71/trash-can-icon-vector-13490171.jpg">
             </div>
           </div>
         </div>
